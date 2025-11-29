@@ -1,5 +1,5 @@
 public class Sam {
     public static void main(String[] args) {
-        System.out.println("this projict sam");
+        System.out.println("this projict sam 22");
     }
 }
